@@ -10,8 +10,8 @@ Simple website for Brassart Chloe documents
 [comment]: <> Change link below
 
 [comment]: <> ### First newsletter
-[comment]: <> * [Version française](firstnewsletter-fr.html)
-[comment]: <> * [English version](firstnewsletter-en.html)
+[comment]: <> * [Version française](file-name-fr.html)
+[comment]: <> * [English version](file-name-en.html)
 
 
 ## Support or Contact
