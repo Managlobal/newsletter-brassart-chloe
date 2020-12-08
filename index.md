@@ -5,10 +5,13 @@ Simple website for Brassart Chloe documents
 
 ## Newsletter
 
-### First newsletter
+[comment]: <> COPY/PAST below line and remove `[comment]: <>`
+[comment]: <> Upload needed file with a good name
+[comment]: <> Change link below
 
-* [Version française](firstnewsletter-fr.html)
-* [English version](firstnewsletter-en.html)
+[comment]: <> ### First newsletter
+[comment]: <> * [Version française](firstnewsletter-fr.html)
+[comment]: <> * [English version](firstnewsletter-en.html)
 
 
 ## Support or Contact
