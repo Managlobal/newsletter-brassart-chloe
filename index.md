@@ -6,9 +6,9 @@ Simple website for Brassart Chloe documents
 ## Newsletter
 
 [comment]: <> TO ADD NEWSLETTER
-[comment]: <> COPY/PAST below line and remove `[comment]: <>`
-[comment]: <> Upload needed file with a good name
-[comment]: <> Change link below
+[comment]: <> 1) COPY/PAST below line and remove `[comment]: <>`
+[comment]: <> 2) Upload needed file with a good name
+[comment]: <> 3) Change link below
 
 [comment]: <> START COPY -----------------------------------------
 [comment]: <> ### First newsletter
@@ -16,9 +16,9 @@ Simple website for Brassart Chloe documents
 [comment]: <> * [English version](file-name-en.html)
 [comment]: <> END COPY -------------------------------------------
 
-[comment]: <> ### Mana global newsletter
-[comment]: <> * [Version française](newsletter-managlobal-fr.html)
-[comment]: <> * [English version](newsletter-managlobal-en.html)
+### Mana global newsletter
+* [Version française](newsletter-managlobal-fr.html)
+* [English version](newsletter-managlobal-en.html)
 
 ## Support or Contact
 
