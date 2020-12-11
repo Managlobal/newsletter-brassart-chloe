@@ -5,7 +5,7 @@ Simple website for Brassart Chloe documents
 
 ## Newsletter
 
-### Mana global newsletter
+### ManaGlobal newsletters
 * [Version française](newsletter-managlobal-fr.html)
 * [English version](newsletter-managlobal-en.html)
 
