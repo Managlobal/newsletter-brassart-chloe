@@ -1,7 +1,7 @@
 
-# Chloe Brassart
+# Uliege
 
-Simple website for Brassart Chloe documents
+Simple website for Uliege documents
 
 ## Newsletter
 
